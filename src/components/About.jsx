@@ -19,6 +19,9 @@ const About = () => {
           images. Color choices are not included, but different values in color
           can be represented in grayscale.
         </p>
+        <p className="font-forma mt-4">
+          I'm adding this to see if I did it right
+        </p>
       </div>
       <div className="md:w-6/12 h-96 justify-end items-end hidden md:flex">
         <img
