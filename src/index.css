@@ -1,0 +1,10 @@
+@import url("https://use.typekit.net/lyi8umx.css");
+@import url("https://use.typekit.net/lyi8umx.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #fffdf8;
+}
