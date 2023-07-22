@@ -5,9 +5,9 @@ const Header = () => {
     <>
       <div className="flex flex-col justify-between items-center w-screen px-10 py-8 md:px-24 border-b border-gray-900 cursor-default">
         <h1 className="font-fields">ELISE STEELE</h1>
-        <div className="flex flex-col w-full justify-start items-start pt-48">
+        <div className="flex flex-col w-full justify-start items-start pt-96">
           <h1 className="text-7xl font-fields">WRITER & EDITOR</h1>
-          <p className="text-sm font-forma">little bio goes here</p>
+          <p className="text-sm font-forma">Based in Richmond, Virginia</p>
         </div>
       </div>
       <div>
