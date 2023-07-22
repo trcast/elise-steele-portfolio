@@ -41,7 +41,7 @@ export default [
     company: "Rising Rock",
     description:
       "A small cluster of binoculars and pointed fingers aim excitedly toward a skyline of trees on the Reflection Riding nature walk as members of Chattanooga's Ornithological Society search for a cawing American Crow.\n\nThe Chattanooga Chapter of the Tennessee Ornithological Society (CTOS) is a local birding organization that offers members the opportunity to join together in appreciation and admiration for birds.",
-    link: "https://risingrock.net/2021/04/27/birdwatching-in-chattanooga/#more-2782",
+    link: "https://risingrock.net/2021/04/27/birdwatching-in-chattanooga/",
     image: "article-birdwatching.webp",
   },
   {
@@ -59,7 +59,7 @@ export default [
     company: "Rising Rock",
     description:
       "One at a time, students roll up their sleeves and take a deep breath to receive their COVID-19 vaccination shot from the UTC Health Department, a process most of the community found inconceivable a year ago when the University first shut down for the pandemic.\n\nMost students are likely to remember their excitement in response to UTC extending its spring break for another week in March of 2020. However, no one could estimate the intensity of obstacles and hardships that the community would face over the next year.",
-    link: "https://risingrock.net/2021/04/26/making-meaning-out-of-struggle/#more-2679",
+    link: "https://risingrock.net/2021/04/26/making-meaning-out-of-struggle/",
     image: "article-meaning.webp",
   },
 ];
