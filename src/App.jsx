@@ -33,7 +33,7 @@ function App() {
     });
   }
   return (
-    <div className="overflow-x-hidden">
+    <div className="overflow-x-clip">
       <nav className="sticky top-0">
         <div className=" bg-[#fffdf8] max-w-screen flex flex-wrap items-center justify-between mx-auto border-b border-gray-900 px-10 py-4 md:px-24">
           <img
